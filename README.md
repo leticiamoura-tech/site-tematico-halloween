@@ -33,3 +33,7 @@ O objetivo é apresentar uma página com identidade visual inspirada no Hallowee
 Leticia Moura
 
 GitHub: https://github.com/leticiamoura-tech
+
+## 🖼️ Prévia do projeto
+
+![Página inicial do site Halloween](img/halloween-preview.png)
