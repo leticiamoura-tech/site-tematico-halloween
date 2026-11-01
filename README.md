@@ -36,4 +36,4 @@ GitHub: https://github.com/leticiamoura-tech
 
 ## 🖼️ Prévia do projeto
 
-![Página inicial do site Halloween](img/halloween-preview.png)
+![Prévia do projeto](https://raw.githubusercontent.com/leticiamoura-tech/site-tematico-halloween/main/img/halloween-preview.png)
