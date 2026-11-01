@@ -35,4 +35,4 @@ Leticia Moura
 GitHub: https://github.com/leticiamoura-tech
 
 ## 🖼️ Prévia do projeto
-![Prévia do projeto](./img/halloween-preview.png)
+![Prévia do projeto](./img/halloween-previw.png)
